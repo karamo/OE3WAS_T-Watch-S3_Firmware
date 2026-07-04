@@ -5,7 +5,8 @@ Firmware und Beispiele/Examples aus verschiedenen Quellen:
 [Ein webbasiertes Tool um Meshtastic-Firmware zu flashen](https://flasher.meshtastic.org/)
 
 ### • MeshCore
-https://blog.meshcore.io/2026/03/28/twatch-s3-plus
+https://blog.meshcore.io/2026/03/28/twatch-s3-plus  
+https://flasher.meshcore.io/lilygo-t-watch-s3-plus/
 
 ### • Factory-FW from LilyGO
 
