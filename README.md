@@ -17,5 +17,5 @@ https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/tree/t-watch-s3/firmware/w
 [Source](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/tree/t-watch-s3/examples/demo/factory)
 
 ### • firmware.bin Flasher
-Wenn nur **eine** **`firmware.bin`** Datei bereitgestellt wird, dann ist die **immer** auf **`0x0`** zu flashen!
+Falls kein Web-Flasher zur Verfügung steht und wenn nur **eine** **`firmware.bin`** Datei bereitgestellt wird, dann ist die **immer** auf **`0x0`** zu flashen, mit dem:
 - [ESP Web Flasher Online](https://espressif.github.io/esptool-js/)
