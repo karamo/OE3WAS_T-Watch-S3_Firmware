@@ -1,10 +1,10 @@
 # OE3WAS_T-Watch-S3_Firmware
 Firmware und Beispiele/Examples aus verschiedenen Quellen:
 
-### Meshtastic
-• [Ein webbasiertes Tool um Meshtastic-Firmware zu flashen](https://flasher.meshtastic.org/)
+### • Meshtastic
+[Ein webbasiertes Tool um Meshtastic-Firmware zu flashen](https://flasher.meshtastic.org/)
 
-### Factory-FW from LilyGO
+### • Factory-FW from LilyGO
 
 https://github.com/Xinyuan-LilyGO/LilyGoLib/blob/master/firmware/README.md  
 https://github.com/Xinyuan-LilyGO/LilyGoLib/blob/master/firmware/factory.twatchs3.sx1262.20251219.bin
